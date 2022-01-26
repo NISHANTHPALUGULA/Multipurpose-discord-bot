@@ -1,15 +1,15 @@
 {
-   "token": "",
-   "prefix": "t!",
+   "token": "TOKEN",
+   "prefix": ",",
    "ownerIDS": [
       "442355791412854784"
    ],
    "memer_api": "get it from: https://discord.gg/Mc2FudJkgP",
    "status": {
-      "text": "{prefix}help | milrato.eu",
-      "text2": "by: discord.gg/milrato",
-      "type": "PLAYING",
-      "url": "https://twitch.tv/milratoDiscordBot"
+      "text": "{prefix}help | S.W.A.G",
+      "text2": "S.W.A.G OP",
+      "type": "STREAMING",
+      "url": ""
    },
    "clientsettings": {
       "nodes": [
